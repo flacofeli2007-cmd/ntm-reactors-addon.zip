@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "ntmreactors",
+    "name": "NTM Reactors Addon",
+    "description": "Añade 3 reactores nucleares a HBM's Nuclear Tech Extended: Neutrones Rápidos, Torio (iniciación dual) y Agua Pesada.",
+    "version": "0.1.0",
+    "mcversion": "1.12.2",
+    "authorList": [],
+    "dependencies": ["hbm"]
+  }
+]

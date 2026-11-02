@@ -1,0 +1,14 @@
+itemGroup.ntmreactors=Reactores NTM
+tile.ntmreactors.fast_reactor.name=Reactor de Neutrones Rápidos
+tile.ntmreactors.thorium_reactor.name=Reactor de Torio (Iniciación Dual)
+tile.ntmreactors.heavy_water_reactor.name=Reactor de Agua Pesada (HWR)
+item.ntmreactors.heavy_water_cell.name=Celda de Agua Pesada
+gui.ntmreactors.fuel=Combustible
+gui.ntmreactors.output=Agotado
+gui.ntmreactors.heat=Calor
+gui.ntmreactors.aux.fast_reactor=Refrigerante (litio)
+gui.ntmreactors.aux.thorium_reactor=Activador (U / MOX)
+gui.ntmreactors.aux.heavy_water_reactor=Agua pesada
+gui.ntmreactors.status.running=Activo
+gui.ntmreactors.status.idle=Inactivo
+gui.ntmreactors.status.scram=SCRAM: sobrecalentado

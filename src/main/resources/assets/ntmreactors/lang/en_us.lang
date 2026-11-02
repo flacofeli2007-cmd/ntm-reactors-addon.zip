@@ -1,0 +1,14 @@
+itemGroup.ntmreactors=NTM Reactors
+tile.ntmreactors.fast_reactor.name=Fast Neutron Reactor
+tile.ntmreactors.thorium_reactor.name=Thorium Reactor (Dual Ignition)
+tile.ntmreactors.heavy_water_reactor.name=Heavy Water Reactor (HWR)
+item.ntmreactors.heavy_water_cell.name=Heavy Water Cell
+gui.ntmreactors.fuel=Fuel
+gui.ntmreactors.output=Spent
+gui.ntmreactors.heat=Heat
+gui.ntmreactors.aux.fast_reactor=Lithium coolant
+gui.ntmreactors.aux.thorium_reactor=Starter (U / MOX)
+gui.ntmreactors.aux.heavy_water_reactor=Heavy water
+gui.ntmreactors.status.running=Running
+gui.ntmreactors.status.idle=Idle
+gui.ntmreactors.status.scram=SCRAM: overheated

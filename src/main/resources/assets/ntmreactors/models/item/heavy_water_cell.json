@@ -1,0 +1,4 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "ntmreactors:items/heavy_water_cell" }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SLS", "BCB", "SLS"],
+  "key": {
+    "S": { "item": "hbm:plate_steel" },
+    "L": { "item": "hbm:plate_lead" },
+    "B": { "item": "hbm:lithium" },
+    "C": { "item": "hbm:block_steel" }
+  },
+  "result": { "item": "ntmreactors:fast_reactor" }
+}

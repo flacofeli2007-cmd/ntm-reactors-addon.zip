@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ZAZ", "HCH", "ZAZ"],
+  "key": {
+    "Z": { "item": "hbm:ingot_zirconium" },
+    "A": { "item": "hbm:ingot_red_copper" },
+    "H": { "item": "ntmreactors:heavy_water_cell" },
+    "C": { "item": "hbm:block_steel" }
+  },
+  "result": { "item": "ntmreactors:heavy_water_reactor" }
+}

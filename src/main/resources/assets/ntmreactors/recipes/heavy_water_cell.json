@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "hbm:gas_deuterium" },
+    { "item": "minecraft:water_bucket" }
+  ],
+  "result": { "item": "ntmreactors:heavy_water_cell", "count": 2 }
+}
